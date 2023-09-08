@@ -1,0 +1,100 @@
+/* Your styles here */
+
+
+.one {
+    background-color: #222f3f;
+}
+.two li { display: inline;
+    margin-right: 1em;
+    color: white;
+}
+.two {
+    background-color:#314967 ;
+}
+.three {
+    background-color: #ff8600;
+    text-align: center;
+    margin: 1em 0;
+    padding: 0.3em;
+    margin-left: 0.5em;
+    margin-right: 0.5em
+}
+.three p {
+    color: white;
+    font-size: smaller
+}
+.four {
+    background-image: url(../images/bg-image.png);
+    padding: 2em 0;
+    background-size: contain;
+    text-align: center;
+    margin-bottom: 2em;
+    margin-left: 0.5em;
+    margin-right: 0.5em
+    
+}
+.four h1  {
+    color: white;
+    font-size: x-large;
+    margin-bottom: 0.5em
+}
+.four p {
+    color: white;
+}
+
+
+.five {
+    text-align: center;
+    border-style: solid;
+   border-color:  #dcdbdb;
+    margin-left: 0.7em;
+    margin-right: 0.7em
+
+}
+
+
+
+.five div {
+    margin-bottom: 0.5em;
+}
+.six div {
+    display: inline;
+    margin: 0 0.6em;
+
+
+}
+.six img {
+    border-radius: 10%;
+}
+.seven {
+    text-align: center;
+}
+.eight {
+    text-align: center;
+    margin-bottom: 1em;
+}
+.nine {
+    text-align: center;
+}
+.eleven {
+    background-color:#314967 ;
+    text-align: center;
+}
+.ten {
+    text-align: center;
+    background-color: #222f3f;
+    padding: 2em;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.conteiner {
+    background-color: #dcdbdb;
+
+}
+.six {
+    background-color: white;
+    padding: 2em 0em;
+    margin-left: 2em;
+    margin-right: 2em;
+}
